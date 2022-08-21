@@ -15,7 +15,7 @@ SMOTEENN|![](./analysis/s_acc.png)
 Balanced Random Forest|![](./analysis/brf_acc.png)
 Easy Ensemble AdaBoost|![](./analysis/eea_acc.png)
 
-Balanced Random Forest and Easy Ensemble AdaBoost give huge leap ahead each in terms of accuracy score. How could we see in a more obvious way? Confusion matrix is going to help us with that.
+Balanced Random Forest and Easy Ensemble AdaBoost give huge leap each in terms of accuracy score. How could we see this in a more obvious way? Confusion matrix is going to help us with that.
 
 ## Confusion Matrix
 
